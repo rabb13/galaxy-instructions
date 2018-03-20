@@ -2,7 +2,7 @@
 #-------------------------------
 # Make sure variable here is correct before running this script
 # URL for the bx package
-pkgurl="http://files.gel.zone/galaxy/tools/galaxy_bx_py_devteam_2d0c08728bca.tgz"
+pkgurl="https://github.com/rabb13/galaxy-instructions/raw/master/tools/package_bx_py_devteam_0.7.1_devteam_2d0c08728bca.tgz"
 
 # Galaxy installation directory
 galaxy_dir="/srv/galaxyproject/galaxy"

@@ -2,7 +2,7 @@
 #-------------------------------
 # Make sure variable here is correct before running this script
 # URL for the bx package
-pkgurl="https://files.gel.zone/galaxy/tools/package_blast_plus_2_2_26_devteam_85e43fb3f363.tgz"
+pkgurl="http://dx.rabd.co.uk/downloads/package_blast_plus_2_2_26_devteam_85e43fb3f363.tgz"
 
 # Galaxy installation directory
 galaxy_dir="/srv/galaxyproject/galaxy"

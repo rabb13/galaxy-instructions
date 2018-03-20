@@ -2,7 +2,7 @@
 #-------------------------------
 # Make sure variable here is correct before running this script
 # URL for the bx package
-pkgurl="https://files.gel.zone/galaxy/tools/package_fontconfig_2_11_1_devteam_1e47d82c2c3d.tgz"
+pkgurl="https://github.com/rabb13/galaxy-instructions/raw/master/tools/package_fontconfig_2_11_1_devteam_1e47d82c2c3d.tgz"
 
 # Galaxy installation directory
 galaxy_dir="/srv/galaxyproject/galaxy"
